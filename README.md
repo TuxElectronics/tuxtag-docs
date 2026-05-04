@@ -1,12 +1,10 @@
 # TuxTag Documentation
 
-User manuals, API documentation, and project records.
+User manuals and project records for the TuxTag Smart WiFi Tag (ESP32-C3).
 
 ## Contents
 - `user-manual/` — Setup and usage guide
-- `api/` — BLE protocol specification
-- `oshwa/` — OSHWA certification application
 - `photos/` — Product images
 
 ## License
-Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA)
+CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S)
